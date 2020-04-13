@@ -1,5 +1,5 @@
 # BlackJack
-##Project layout
+## Project layout
 - [ ] Display
 - [ ] Deck
 - [ ] Ace 
